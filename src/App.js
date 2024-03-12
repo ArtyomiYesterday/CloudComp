@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          CloudComp CI/CD completed.
+          CloudComp CI/CD completed dispatch.
         </p>
       </header>
     </div>
